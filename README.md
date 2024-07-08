@@ -33,7 +33,7 @@ Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırl�
 - Terminalde aşağıdaki komutları sırasıyla çalıştırarak proje bağımlılıklarını yükleyin ve projeyi başlatın:
   ```sh
   npm install
-  npm start
+  npm run dev
   ```
 
 3. **Geliştirmeye Başlayın** 🤓 👩‍💻 🧑‍💻
