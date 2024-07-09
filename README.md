@@ -1,3 +1,4 @@
+
 ### Pizza Sipariş Formu - Tasarımdan Koda II
 
 Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırlık olarak, ReactJS becerilerinizi geliştirmeniz için tasarlanmıştır. Bu projede, React kullanarak verilen tasarımı aynen uygulamanız beklenmektedir. Figma tasarım dosyasını referans alarak, sayfanızın görsel yapısını oluşturun.
@@ -6,15 +7,18 @@ Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırl�
 
 - Verilen Figma tasarımına birebir uyan, mobil ve desktop uyumlu dinamik bir ReactJS uygulaması oluşturmak.
 - Bileşen mantığını ve CSS classlarını kullanarak ve sayfayı şekillendirmek.
-- React kullanarak temel sayfa ve bileşen ağacını kurgulamak.
+- En basit seviyede React kullanarak temel sayfa ve bileşen ağacını kurgulamak.
 
 ## Önemli Notlar
 
-- Her aşamada, tasarımı birebir uygulamaya çalışmalısın.
+- Bu projede ReactJS kullanacaksınız. Sayfalar arası navigasyon dışında projede işlev olmayacak, sadece statik veri aktarımı için, bileşen mimarisini kurmanızı bekliyoruz. (`useState`)
 - Önce **İterasyon 1'i tamamlayıp**, sonra İterasyon 2'ye geçmelisin. **Notlandırma kriterlerinde en yüksek puan, form akışına verilecek.** CSS'in puanlamaya katkısı, React kısmından daha az.
 - Görevleri yetiştirmek için, MUTLAKA tasarımların listelendiği sırayla ilerle. Proje planından şaşma. Önceki task yetişmeden sonrakine geçerek sadece zamanını boşa harcamayı riske atarsın. 
 - Metinler ve form alanı başlıklarını kendi istediğin gibi güncelleyebilirsin. Yine de kesinlikle **renkler ve yerleşimde** değişiklik istemiyoruz.
 - Sonraki hafta sunumdan sonra dilersen sonrasında kendi portföyüne eklemeden önce için özelleştirebilirsin.
+- Figma tasarımına sadık kalarak mobil ve masaüstü ekranlarda, düzgün dengeli bir görünüm sağlamayı hedefleyin.
+- HTML yapınızın anlamsal (semantic) olmasına özen gösterin.
+- CSS'te class isimlendirmesi ve kod düzenine dikkat edin.
 
 **Gereksinimler:**
 
@@ -54,6 +58,24 @@ Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırl�
 - `src/assets/`: import ederek, bileşenlerde kullanacağınız dizin. (kullanım örneği için App.jsx proje dosyasını inceleyin)
 - `public/assets/`: import etmeden, projede kullanacağınız tüm resim ve diğer statik dosyalar sizin için önden dışarı aktarıldı. (kullanım örneği için App.jsx proje dosyasını inceleyin)
 
+#### Renk Kodları
+
+1. Sarı #FDC913
+2. Açık Gri: #5F5F5F
+3. Koyu Gri #292929
+4. Kırmızı #CE2829
+5. Bej: #FAF7F2
+
+#### Tasarımda Kullanılan Fontlar
+
+Logo proje klasöründe SVG olarak yüklü
+
+- [Roboto Condensed](https://fonts.google.com/specimen/Roboto+Condensed)
+- [Barlow](https://fonts.google.com/specimen/Barlow)
+- [Quattrocento](https://fonts.google.com/specimen/Quattrocento)
+- [Satisfy](https://fonts.google.com/specimen/Satisfy)
+
+
 #### Proje Yönergeleri
 
 - `src/components`: React bileşenlerini burada oluşturun.
@@ -62,13 +84,6 @@ Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırl�
 - Tekrar eden öğeler için bilşenler kullanın ve proplar ile veri aktarın.
 - Routing ile sayfalar arası navigasyon sağlayın.
 - Figma tasarımını ([Pizza v2.1](https://www.figma.com/design/q0xPW5uCel3rdzFgpjR9lt/S7-Challange-v2.1?node-id=0-1&t=YaF1bwQuJY7HrwS4-1)) referans alarak CSS (`App.css`) ile sayfaları ve bileşenleri.
-
-**Önemli Notlar:**
-
-- Bu projede ReactJS kullanacaksınız. Sayfalar arası navigasyon dışında projede işlev olmayacak, sadece statik veri aktarımı için, bileşen mimarisini kurmanızı bekliyoruz. (`useState`)
-- Figma tasarımına sadık kalarak mobil ve masaüstü ekranlarda, düzgün dengeli bir görünüm sağlamayı hedefleyin.
-- HTML yapınızın anlamsal (semantic) olmasına özen gösterin.
-- CSS'te class isimlendirmesi ve kod düzenine dikkat edin.
 
 **Kaynaklar:**
 
