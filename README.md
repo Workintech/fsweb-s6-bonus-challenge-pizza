@@ -8,6 +8,14 @@ Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırl�
 - Bileşen mantığını ve CSS classlarını kullanarak ve sayfayı şekillendirmek.
 - React kullanarak temel sayfa ve bileşen ağacını kurgulamak.
 
+## Önemli Notlar
+
+- Her aşamada, tasarımı birebir uygulamaya çalışmalısın.
+- Önce **İterasyon 1'i tamamlayıp**, sonra İterasyon 2'ye geçmelisin. **Notlandırma kriterlerinde en yüksek puan, form akışına verilecek.** CSS'in puanlamaya katkısı, React kısmından daha az.
+- Görevleri yetiştirmek için, MUTLAKA tasarımların listelendiği sırayla ilerle. Proje planından şaşma. Önceki task yetişmeden sonrakine geçerek sadece zamanını boşa harcamayı riske atarsın. 
+- Metinler ve form alanı başlıklarını kendi istediğin gibi güncelleyebilirsin. Yine de kesinlikle **renkler ve yerleşimde** değişiklik istemiyoruz.
+- Sonraki hafta sunumdan sonra dilersen sonrasında kendi portföyüne eklemeden önce için özelleştirebilirsin.
+
 **Gereksinimler:**
 
 - Visual Studio Code
