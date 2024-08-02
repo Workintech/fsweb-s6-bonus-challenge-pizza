@@ -12,7 +12,6 @@ Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırl�
 ## Önemli Notlar
 
 - Bu projede ReactJS kullanacaksınız. Sayfalar arası navigasyon dışında projede işlev olmayacak, sadece statik veri aktarımı için, bileşen mimarisini kurmanızı bekliyoruz. (`useState`)
-- Önce **İterasyon 1'i tamamlayıp**, sonra İterasyon 2'ye geçmelisin. **Notlandırma kriterlerinde en yüksek puan, form akışına verilecek.** CSS'in puanlamaya katkısı, React kısmından daha az.
 - Görevleri yetiştirmek için, MUTLAKA tasarımların listelendiği sırayla ilerle. Proje planından şaşma. Önceki task yetişmeden sonrakine geçerek sadece zamanını boşa harcamayı riske atarsın. 
 - Metinler ve form alanı başlıklarını kendi istediğin gibi güncelleyebilirsin. Yine de kesinlikle **renkler ve yerleşimde** değişiklik istemiyoruz.
 - Sonraki hafta sunumdan sonra dilersen sonrasında kendi portföyüne eklemeden önce için özelleştirebilirsin.
@@ -83,11 +82,11 @@ Logo proje klasöründe SVG olarak yüklü
 - `useState` hooku kullanarak, statik içeriği componentlere aktarın.
 - Tekrar eden öğeler için bilşenler kullanın ve proplar ile veri aktarın.
 - Routing ile sayfalar arası navigasyon sağlayın.
-- Figma tasarımını ([Pizza v2.1](https://www.figma.com/design/q0xPW5uCel3rdzFgpjR9lt/S7-Challange-v2.1?node-id=0-1&t=YaF1bwQuJY7HrwS4-1)) referans alarak CSS (`App.css`) ile sayfaları ve bileşenleri.
+- Figma tasarımını ([S6 Pizza v2.1 Mobil]([https://www.figma.com/design/q0xPW5uCel3rdzFgpjR9lt/S7-Challange-v2.1?node-id=0-1&t=YaF1bwQuJY7HrwS4-1])) referans alarak CSS (`App.css`) ile sayfaları ve bileşenleri.
 
 **Kaynaklar:**
 
-- **Figma Tasarımı:** [Pizza v2.1](https://www.figma.com/design/q0xPW5uCel3rdzFgpjR9lt/S7-Challange-v2.1?node-id=0-1&t=YaF1bwQuJY7HrwS4-1)
+- **Figma Tasarımı:** [S6 Pizza v2.1 Mobil](https://www.figma.com/design/B6rGWNjWqVyvuB9htLyIMR/S6-Challange-v2.1?node-id=0-1&t=VGRotef0LapuZ7fQ-1)
 - **CSS içerisinde değişken tanımlayıp, yeniden kullanabilmek:** [CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 - **ReactJS Başlangıç Kılavuzu:** [React Docs](https://reactjs.org/docs/getting-started.html)
 
