@@ -26,16 +26,16 @@ Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırl�
 
 **Başlangıç:**
 
-1. **Fork & Clone:**
+1. **Create Repo From Template & Clone:**
 
-   - Fork işlemi tamamlandıktan sonra, kendi GitHub hesabınızda yer alan depo bağlantısını kopyalayın.
+   - Sağ üstteki yeşil "Use this template" butonu ile, bir kopya oluşturun. işlemi tamamlandıktan sonra, kendi GitHub hesabınızda yer alan depo bağlantısını kopyalayın.
    - VS Code'u açın ve terminali başlatın. Aşağıdaki komutu kullanarak depoyu bilgisayarınıza klonlayın:
      ```sh
-     git clone <Sizin-Forklanan-Repo-URL'niz>
+     git clone <Yeni-Repo-URL'niz>
      ```
    - Örnek:
      ```sh
-     git clone https://github.com/sizin-hesabiniz/fsweb-sub-project-pizza
+     git clone https://github.com/sizin-hesabiniz/fsweb-s6-challenge-pizza
      ```
 
 2. **VS Code'da Geliştirmeye Başlamak:**
