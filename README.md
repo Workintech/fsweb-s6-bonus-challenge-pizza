@@ -35,7 +35,7 @@ Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırl�
      ```
    - Örnek:
      ```sh
-     git clone https://github.com/sizin-hesabiniz/fsweb-s6-bonus-challenge-pizza
+     git clone https://github.com/sizin-hesabiniz/fsweb-s6-bonus-challenge-react-pizza
      ```
 
 2. **VS Code'da Geliştirmeye Başlamak:**
