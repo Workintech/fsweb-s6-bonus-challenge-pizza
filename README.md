@@ -5,7 +5,7 @@ Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırl�
 
 **Amaç:**
 
-- Verilen Figma tasarımına birebir uyan, mobil ve desktop uyumlu dinamik bir ReactJS uygulaması oluşturmak.
+- Verilen Figma tasarımına birebir uyan, mobil uyumlu dinamik bir ReactJS uygulaması oluşturmak.
 - Bileşen mantığını ve CSS classlarını kullanarak ve sayfayı şekillendirmek.
 - En basit seviyede React kullanarak temel sayfa ve bileşen ağacını kurgulamak.
 
